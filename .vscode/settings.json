@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/479c8d64-b57b-4b43-8031-d2354c87dd50/resourceGroups/Jalculator/providers/Microsoft.Web/sites/Jalculator",
+    "appService.deploySubpath": ""
+}
